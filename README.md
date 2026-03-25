@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Kacper</p>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
@@ -10,7 +6,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular</p>
+<ul>
+  <li><p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular</p></li>
+  <li>Drugi element listy</li>
+  <li>Trzeci element listy</li>
+</ul>
 
 ###
 
