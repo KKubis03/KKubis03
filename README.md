@@ -7,9 +7,15 @@
 ###
 
 <ul>
-  <li><p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular</p></li>
-  <li>Drugi element listy</li>
-  <li>Trzeci element listy</li>
+  <li>
+     <b> 🧑‍💻 Fullstack Developer</b> - Building professional web applications, services, interfaces
+  </li>
+  <li>
+     <b> 🧑‍🎓 Bachelor of Engineering in Computer Science </b> - Programming of business applications
+  </li>
+  <li>
+     <b> 🚀 Excited to Learn new technologies </b> - I enjoy learning new technologies and exploring new features
+  </li>
 </ul>
 
 ###
